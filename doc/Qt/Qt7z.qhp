@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.qt7z</namespace>
+    <virtualFolder>Qt7z</virtualFolder>
+    <customFilter name="Qt 7z 1.6.0">
+        <filterAttribute>Qt7z</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>Qt7z</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="Qt 7z Manual" ref="index.html">
+                <section title="English" ref="en/index.html"/>
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="Qt7z" id="CIOS::Qt7z" ref="index.html"/>
+        </keywords>
+        <files>
+            <file>*.css</file>
+            <file>*.html</file>
+            <file>images/*</file>
+            <file>en/*</file>
+            <file>cn/*</file>
+            <file>tw/*</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
